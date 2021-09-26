@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Event Manager</string>
+    <string name="abhisht">Abhisht</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_details">enter details</string>
+    <string name="add">ADD</string>
+    <string name="view">VIEW</string>
+    <string name="event_details">event_details</string>
+    <string name="date_details">Date_Details</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="type_name">Type Name</string>
+    <string name="create">CREATE</string>
+
+
+    <string-array name="events">
+        <item>Choose Event</item>
+        <item>BIRTHDAY</item>
+        <item>MEETING</item>
+        <item>WEBINAR</item>
+        <item>ANNIVERSARY</item>
+        <item>MOVIE</item>
+    </string-array>
+</resources>
